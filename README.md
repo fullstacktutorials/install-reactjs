@@ -1,13 +1,13 @@
 # How to Install - Step by Step Guide
 1. Clone using the following repo link
-   ### `git clone https://github.com/fullstacktutorials/install-reactjs.git myFirstReactProject`
+   #### `git clone https://github.com/fullstacktutorials/install-reactjs.git myFirstReactProject`
 
 2. Go to the project folder and run npm install
-   ### `cd myFirstReactProject`
+   #### `cd myFirstReactProject`
    ### `npm install`
 
 3. Now run your app
-   ### `npm start`
+   #### `npm start`
 
 ##### Note - myFirstReactProject - you can change this with your project name.
 
