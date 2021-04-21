@@ -1,3 +1,43 @@
+# Reactjs can be installed on your local machine by using following ways:
+npx
+npm
+yarn
+create-react-app
+
+# 1. Using NPX - it’s a package runner tool that comes with npm 5.2+
+npx create-react-app myFirstReactProject
+
+# 2. Using NPM - it is available in npm 6+
+npm init react-app myFirstReactProject
+
+# 3. Using Yarn - it is available in Yarn 0.25+
+yarn create react-app myFirstReactProject
+
+After installing reactjs using any of the above method
+Go to the your project folder and run your react app
+    cd myFirstReactProject
+    npm start
+
+Note: myFirstReactProject is the name of your react project, you can change it as per your interest/requirement.
+
+# 4. Using create-react-app
+Step-1: First, install - Create React App.
+
+For Windows:
+npm install -g create-react-app
+For Linux and Mac:
+sudo npm install -g create-react-app
+Step-2: Now, create your project.
+
+create-react-app myFirstReactProject
+Step-3: Now, start the your app/project.
+
+//Go to your project folder
+cd myFirstReactProject
+
+//Start your App
+npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
