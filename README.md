@@ -15,13 +15,14 @@ Reactjs can be installed by using any of the following ways:
 - it is available in npm 6+
 ## npm init react-app myFirstReactProject
 
-# 3. Using Yarn - it is available in Yarn 0.25+
+# 3. Using Yarn 
+- it is available in Yarn 0.25+
 ## yarn create react-app myFirstReactProject
 
 After installing reactjs using any of the above method
 Go to the your project folder and run your react app
-    cd myFirstReactProject
-    npm start
+    ## cd myFirstReactProject
+    ## npm start
 
 Note: myFirstReactProject is the name of your react project, you can change it as per your interest/requirement.
 
