@@ -4,7 +4,7 @@
 
 2. Go to the project folder and run npm install
    #### `cd myFirstReactProject`
-   ### `npm install`
+   #### `npm install`
 
 3. Now run your app
    #### `npm start`
