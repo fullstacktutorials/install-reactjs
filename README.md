@@ -21,8 +21,9 @@ Reactjs can be installed by using any of the following ways:
 
 After installing reactjs using any of the above method
 Go to the your project folder and run your react app
-    ## cd myFirstReactProject
-    ## npm start
+
+### cd myFirstReactProject
+### npm start
 
 Note: myFirstReactProject is the name of your react project, you can change it as per your interest/requirement.
 
