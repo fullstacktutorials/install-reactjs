@@ -12,7 +12,7 @@
 ##### Note - myFirstReactProject - you can change this with your project name.
 
 
-# Reactjs Installation:
+# Reactjs Installation
 
 Reactjs can be installed by using any of the following ways:
 
