@@ -9,23 +9,23 @@ Reactjs can be installed by using any of the following ways:
 
 # 1. Using NPX
 - it’s a package runner tool that comes with npm 5.2+
-## npx create-react-app my-app
+## npx create-react-app myFirstReactProject
 
 # 2. Using NPM
 - it is available in npm 6+
-## npm init react-app my-app
+## npm init react-app myFirstReactProject
 
 # 3. Using Yarn 
 - it is available in Yarn 0.25+
-## yarn create react-app my-app
+## yarn create react-app myFirstReactProject
 
 After installing reactjs using any of the above method
 Go to the your project folder and run your react app
 
-### cd my-app
+### cd myFirstReactProject
 ### npm start
 
-Note: my-app is the name of your react project, you can change it as per your interest/requirement.
+Note: myFirstReactProject is the name of your react app/project, you can change it as per your interest/requirement.
 
 # 4. Using create-react-app
 
@@ -38,14 +38,15 @@ For Linux and Mac:
 ## sudo npm install -g create-react-app
 
 Step-2: Now, create your project.
-## create-react-app my-app
+## create-react-app myFirstReactProject
 
 Step-3: Now, start the your app/project.
-//Go to your project folder
-## cd my-app
-
-//Start your App
+//Go to your project folder & start your app.
+## cd myFirstReactProject
 ## npm start
+
+
+
 
 # Getting Started with Create React App
 
