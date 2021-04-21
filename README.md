@@ -1,8 +1,11 @@
-# Reactjs can be installed on your local machine by using following ways:
-npx
-npm
-yarn
-create-react-app
+# Reactjs Installation:
+
+Reactjs can be installed by using any of the following ways:
+
+1. npx
+2. npm
+3. yarn
+4. create-react-app
 
 # 1. Using NPX - it’s a package runner tool that comes with npm 5.2+
 npx create-react-app myFirstReactProject
