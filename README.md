@@ -1,15 +1,15 @@
 # How to Install - Step by Step Guide
 1. Clone using the following repo link
-   #### `git clone https://github.com/fullstacktutorials/install-reactjs.git myFirstReactProject`
+   #### `git clone https://github.com/fullstacktutorials/install-reactjs.git my-first-project`
 
 2. Go to the project folder and run npm install
-   #### `cd myFirstReactProject`
+   #### `cd my-first-project`
    #### `npm install`
 
 3. Now run your app
    #### `npm start`
 
-##### Note - myFirstReactProject - you can change this with your project name.
+##### Note - my-first-project - you can change this with your project name.
 
 
 # Reactjs Installation
@@ -23,23 +23,23 @@ Reactjs can be installed by using any of the following ways:
 
 # 1. Using NPX
 - it’s a package runner tool that comes with npm 5.2+
-## npx create-react-app myFirstReactProject
+## npx create-react-app my-first-project
 
 # 2. Using NPM
 - it is available in npm 6+
-## npm init react-app myFirstReactProject
+## npm init react-app my-first-project
 
 # 3. Using Yarn 
 - it is available in Yarn 0.25+
-## yarn create react-app myFirstReactProject
+## yarn create react-app my-first-project
 
 After installing reactjs using any of the above method
 Go to the your project folder and run your react app
 
-### cd myFirstReactProject
+### cd my-first-project
 ### npm start
 
-Note: myFirstReactProject is the name of your react app/project, you can change it as per your interest/requirement.
+Note: my-first-project is the name of your react app/project, you can change it as per your interest/requirement.
 
 # 4. Using create-react-app
 
@@ -52,11 +52,11 @@ For Linux and Mac:
 ## sudo npm install -g create-react-app
 
 Step-2: Now, create your project.
-## create-react-app myFirstReactProject
+## create-react-app my-first-project
 
 Step-3: Now, start the your app/project.
 //Go to your project folder & start your app.
-## cd myFirstReactProject
+## cd my-first-project
 ## npm start
 
 
